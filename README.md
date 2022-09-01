@@ -3,10 +3,11 @@
 - Neste projeto trabalhei com responsividade, respeitando o mobile first.
 
  #### Tive como aprendizado:
+ 
 - at rule **@media** para identificar os pontos de quebra da page.
-- at rule **@keyframes** para algumas animações.
-- Função clamp() para deixar algumas fontes responsivas.
-- display grid (se torna dificil quando as imagens não estão no mesmo tamanho).
+- at rule **@keyframes** utilizado em algumas animações.
+- função clamp() deixando fontes responsivas.
+- display grid.
 
 ## Stack utilizada:
  - HTML5

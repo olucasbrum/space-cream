@@ -6,7 +6,7 @@
 - at rule **@media** para identificar os pontos de quebra da page.
 - at rule **@keyframes** para algumas animações.
 - Função clamp() para deixar algumas fontes responsivas.
-- display grid (se torna dificil quando as imagens estão no mesmo tamanho).
+- display grid (se torna dificil quando as imagens não estão no mesmo tamanho).
 
 ## Stack utilizada:
  - HTML5
